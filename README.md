@@ -5,3 +5,13 @@
 </h1>
 
 <h3 align="center">A passionate full stack developer from Brazil</h3>
+
+<br/>
+
+<div align="center">
+ 🔭 I’m currently working on **a website**
+ 
+ 🌱 I’m currently learning **CSS, HTML, JavaScript**
+
+💬 Ask me about anything [here](https://github.com/salesp07/salesp07/issues)**
+ </div>
