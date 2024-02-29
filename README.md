@@ -30,3 +30,11 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,css,html,javascript,vscode,github,python,c,java,mysql" />
 </div>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/panabue/panabue/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
