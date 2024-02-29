@@ -13,5 +13,5 @@
  
  🌱 I’m currently learning **CSS, HTML, JavaScript**
 
-💬 Ask me about anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about anything [here](mailto:theotorminn@gmail.com)
  </div>
