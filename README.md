@@ -31,3 +31,4 @@
     <img src="https://skillicons.dev/icons?i=react,css,html,javascript,vscode,github,python,c,java,mysql" />
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=panabue)](https://git.io/streak-stats)
