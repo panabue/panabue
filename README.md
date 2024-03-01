@@ -25,11 +25,15 @@
   </a>
 </div>
 
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,css,html,javascript,vscode,github,python,c,java,mysql" />
 </div>
+
+<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
