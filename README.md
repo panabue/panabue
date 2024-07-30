@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
- 🔭 I’m currently working on **a website**
+ 🔭 I’m currently working on a website
  
  🌱 I’m currently learning **CSS, HTML, JavaScript**
 
