@@ -17,11 +17,11 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:theotnnasser@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" target="_blank"/>
-  </a>
   <a href="https://www.linkedin.com/in/theo-torminn-neto-nasser-b53467249/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" target="_blank"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" style="padding-right:5px"/>
+  </a>
+  <a href="mailto:theotnnasser@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 </div>
 
