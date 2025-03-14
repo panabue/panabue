@@ -11,13 +11,13 @@
 <div align="center">
  🔭 I’m currently working on a website
  
- 🌱 I’m currently learning **CSS, HTML, JavaScript**
+ 🚀 I’m currently learning **Node.js**
 
-💬 Ask me about anything [here](mailto:theotorminn@gmail.com)
+💬 Ask me about anything [here](mailto:theotnnasser@gmail.com)
  </div>
  
 <div align="center"> 
-  <a href="mailto:theotorminn@gmail.com">
+  <a href="mailto:theotnnasser@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/theo-torminn-neto-nasser-b53467249/" target="_blank">
@@ -27,7 +27,7 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,css,html,javascript,vscode,github,python,c,java,mysql" />
@@ -36,7 +36,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/panabue/panabue/output/github-contribution-grid-snake.svg" />
   
@@ -45,7 +45,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"> Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=panabue&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
