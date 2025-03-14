@@ -16,7 +16,7 @@
  
 <div align="center"> 
   <a href="https://www.linkedin.com/in/theo-torminn-neto-nasser-b53467249/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" style="margin-right:5px"/>
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   <a href="mailto:theotnnasser@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail"/>
