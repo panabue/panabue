@@ -14,7 +14,7 @@
  🚀 I’m currently learning **Node.js**
  </div>
  
-<div align="center"> 
+<div align="center flex"> 
   <a href="https://www.linkedin.com/in/theo-torminn-neto-nasser-b53467249/" target="_blank" style="margin-right: 100px;">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
