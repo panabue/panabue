@@ -14,12 +14,9 @@
  🚀 I’m currently learning **Node.js**
  </div>
  
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px;"> 
-  <a href="https://www.linkedin.com/in/theo-torminn-neto-nasser-b53467249/" target="_blank">
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/theo-torminn-neto-nasser-b53467249/" target="_blank" style="margin-right: 10px;">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-  <a href="#" onclick="window.open('mailto:theotnnasser@gmail.com'); return false;">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 </div>
 
