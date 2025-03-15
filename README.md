@@ -14,11 +14,11 @@
  🚀 I’m currently learning **Node.js**
  </div>
  
-<div align="center flex"> 
+<div align="center flex justify-items-center"> 
   <a href="https://www.linkedin.com/in/theo-torminn-neto-nasser-b53467249/" target="_blank" style="margin-right: 100px;">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-  <a href="#" onclick="window.open('mailto:theotnnasser@gmail.com'); return false;">
+  <a href="mailto:theotnnasser@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 </div>
